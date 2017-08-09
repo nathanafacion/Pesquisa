@@ -1,0 +1,38 @@
+﻿Focar mais em One Shot Learning
+
+Que tipo de problemas vamos atacar? Categorizar? Descobrir que características são compartilhadas?
+
+
+https://en.wikipedia.org/wiki/One-shot_learning
+
+
+https://arxiv.org/abs/1605.06065
+
+
+https://www.quora.com/How-is-one-shot-learning-different-from-deep-learning
+
+
+https://github.com/tristandeleu/ntm-one-shot
+
+Category 
+Learning - https://en.wikipedia.org/wiki/Concept_learning
+
+http://psycnet.apa.org/record/2017-19797-001
+
+
+Shape - color - texture - size
+
+
+------
+
+* 
+Inverter a ordem do capítulo 2 
+
+One shot learning & category learning
+
+
+
+Técnicas em geral para tratar este problema
+  - Modelos probabílisticos  
+  - DL
+  - DBL
